@@ -128,6 +128,8 @@
 
  .home-img img {
    width: 100%;
+   height: 470px;
+   clip-path: circle();
  }
 
  .home-text span {
@@ -188,6 +190,8 @@
  .about-img img {
    width: 80%;
    border-radius: 0.5rem;
+   clip-path: circle();
+   height: 470px;
  }
 
  .about-text p {
@@ -227,6 +231,8 @@
    width: 80%;
    padding-left: 4rem;
    object-position: center;
+   clip-path: circle();
+   height: 400px;
  }
 
  .bars-box {
